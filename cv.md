@@ -17,3 +17,26 @@ Hobbies: reading, sewing, healthy lifestyle, animal care, charity work.
 * Bootstrap
 * Flexbox/Grid
 * Photoshop/Figma
+### Code Example
+```
+<script>
+        const email = document.getElementById("mail");
+          email.addEventListener("input", function (event) {
+            if (email.validity.typeMismatch) {
+              email.setCustomValidity("");
+            } else {
+              email.setCustomValidity("");
+            }
+          }); 
+        </script>
+```
+### Experience
+**Open Contact:** Customer care specialist (2017-...)
+### Education
+* **BSU:** Management *(2013-2017)*
+* **StormNet:** HTML,CSS, Javascript *(2019)*
+* **RS School:** HTML,CSS, Javascript *(2022-...)*
+### Languages
+* English (A2)
+* Polish (B1)
+* Russian (Native)
