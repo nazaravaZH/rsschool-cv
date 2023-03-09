@@ -9,3 +9,11 @@
 ### About Me
 Customer care specialist with over 5 years of experience. Highly organized and detail-oriented manager. Easily solve technical problems. I am responsible, stress-resistant, sociable, honest. Extremely motivated for career change goal.  
 Hobbies: reading, sewing, healthy lifestyle, animal care, charity work.
+### Skills
+* HTML
+* CSS
+* Javascript
+* Git/GitHub
+* Bootstrap
+* Flexbox
+* Photoshop/Figma
