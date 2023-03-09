@@ -15,5 +15,5 @@ Hobbies: reading, sewing, healthy lifestyle, animal care, charity work.
 * Javascript
 * Git/GitHub
 * Bootstrap
-* Flexbox
+* Flexbox/Grid
 * Photoshop/Figma
