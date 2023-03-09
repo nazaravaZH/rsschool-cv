@@ -30,3 +30,12 @@ Hobbies: reading, sewing, healthy lifestyle, animal care, charity work.
           }); 
         </script>
 ```
+### Experience
+**Open Contact:** Customer care specialist (2017-...)
+### Education
+* **BSU:** Management *(2013-2017)*
+* **StormNet:** HTML,CSS, Javascript *(2019)*
+### Languages
+* English (A2)
+* Polish (B1)
+* Russian (Native)
