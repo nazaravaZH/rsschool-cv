@@ -1,7 +1,7 @@
 # Yauheniya Nazarava   
 ## Junior Front-end developer   
 ### Contacts   
-* **Phone:** +48 780 728 999
+* **Phone:** +48 780 728 ***
 * **E-mail:** nazaravazhenya@gmail.com
 * **GitHub:** [nazaravaZH](https://github.com/nazaravaZH)
 * **Date of birth:** 25.08.1995
@@ -13,9 +13,9 @@ Hobbies: reading, sewing, healthy lifestyle, animal care, charity work.
 * HTML
 * CSS
 * Javascript
-* Git
+* Git/GitHub
 * Bootstrap
-* Flexbox
+* Flexbox/Grid
 * Photoshop/Figma
 ### Code Example
 ```
